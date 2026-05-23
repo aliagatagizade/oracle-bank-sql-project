@@ -29,4 +29,4 @@ This project is a complete Oracle SQL bank database portfolio project.
 - Views
 
 ## Author
-Aliagha Taghzadeh
+Aliagha Taghizadeh
